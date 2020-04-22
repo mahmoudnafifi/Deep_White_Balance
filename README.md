@@ -24,7 +24,7 @@ The code will be available soon!
 
 ### Related Research Projects
 - [When Color Constancy Goes Wrong](https://github.com/mahmoudnafifi/WB_sRGB): White balance camera-rendered sRGB images (CVPR 2019).
-- [White-Balance Augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter): Emulating white balance effects for color augmentation. It improves image classification and image semantic segmentation results (ICCV 2019).
+- [White-Balance Augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter): Emulating white balance effects for color augmentation. It can improve the accuracy of image classification and image semantic segmentation methods (ICCV 2019).
 - [Exposure Correction](https://github.com/mahmoudnafifi/Exposure_Correction): A coarse-to-fine deep learning model with adversarial training to correct badly-exposed photographs.
 
 
