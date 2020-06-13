@@ -33,7 +33,7 @@ Reference code for the paper [Deep White-Balance Editing.](http://openaccess.the
 We provide source code for Matlab and PyTorch platforms. *There is no guarantee that the trained models produce exactly the same results.*
 
 
-### 1. Matlab
+### 1. Matlab (recommended)
 
 #### Prerequisite
 1. Matlab 2019b or higher 
