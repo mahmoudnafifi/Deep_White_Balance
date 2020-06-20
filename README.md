@@ -8,6 +8,10 @@
 
 
 
+[Oral presentation](https://youtu.be/b2u705wZOvU) 
+
+
+
 ![deep_WB_fig](https://user-images.githubusercontent.com/37669469/77216666-6f4a6d80-6af2-11ea-8e12-7d0d2333152d.jpg)
 
 Reference code for the paper [Deep White-Balance Editing.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Afifi_Deep_White-Balance_Editing_CVPR_2020_paper.pdf) Mahmoud Afifi and Michael S. Brown, CVPR 2020. If you use this code or our dataset, please cite our paper:
