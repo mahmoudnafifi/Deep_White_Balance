@@ -146,3 +146,9 @@ This software is provided for research purposes only and CAN NOT be used for com
 
 Maintainer: Mahmoud Afifi (m.3afifi@gmail.com)
 
+
+## Related Research Projects
+- [When Color Constancy Goes Wrong](https://github.com/mahmoudnafifi/WB_sRGB): The first work to directly address the problem of incorrectly white-balanced images; requires a small memory overhead and it is fast (CVPR 2019).
+- [White-Balance Augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter): An augmentation technique based on camera WB errors (ICCV 2019).
+- [Interactive White Balancing](https://github.com/mahmoudnafifi/Interactive_WB_correction):A simple method to link the nonlinear white-balance correction to the user's selected colors to allow interactive white-balance manipulation (CIC 2020).
+- [Exposure Correction](https://github.com/mahmoudnafifi/Exposure_Correction): A single coarse-to-fine deep learning model with adversarial training to correct both over- and under-exposed photographs (CVPR 2021).
