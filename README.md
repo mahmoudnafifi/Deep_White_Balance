@@ -116,7 +116,7 @@ Example of applying AWB + different WB settings: `python demo_single_image.py --
 </p>
 
 
-2. Run `demo_images.py` to process image directory. Example: `python demo_images.py --input_dir ../example_images/ --output_image ../result_images --task AWB`. The available tasks are AWB, all, and editing. You can also specify the task in the `demo_single_image.py` demo.
+2. Run `demo_images.py` to process image directory. Example: `python demo_images.py --input_dir ../example_images/ --output_dir ../result_images --task AWB`. The available tasks are AWB, all, and editing. You can also specify the task in the `demo_single_image.py` demo.
 
 ##### Training Code:
 Run `training.py` to start training. You should adjust training image directories before running the code. 
